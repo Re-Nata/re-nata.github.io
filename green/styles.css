@@ -1,0 +1,125 @@
+body {
+	background: #F5F5F5;
+	width: 100%;
+}
+
+header {
+	 width: 100%;
+	 height: 4em;
+	 background: #3CB371;   /* #2E8B57; #8FBC8F */
+	 overflow: hidden;
+
+}
+
+header h1 {
+	color: #1F1F1F;
+	margin-left: 4em;
+	margin-top: 0.3em;
+	font-family: 'Lobster', cursive;
+	font-style: bold;
+	letter-spacing: 0.02em;
+}
+
+.wrapper {
+	width: 81%;
+	margin: 0 auto;
+}
+
+
+h2 {
+	color:#2E8B57;
+	font-family: 'Comfortaa', cursive;
+	font-style: bold;
+}
+
+p {
+	color: #000000;
+	line-height: 1.5em;
+	font-size: 1.1em;
+
+}
+
+figure {
+	display: inline-block;
+	margin: 0 auto;
+	padding: 0.5em;
+	width: 31%;
+	height: auto;
+	margin-right: 0.3em;
+
+}
+
+figure img {
+	width: 100%;
+	height: auto;
+	border-radius: 220px;
+	border: 0.3em #8FBC8F solid;
+
+}
+
+figure hr {
+	width: 50%;
+}
+
+figcaption {
+
+	padding-top: 0.4em; 
+	text-align: center;
+}
+
+ol li, ul li {
+	line-height: 1.5em;
+	font-size: 1.1em;
+	color: #000000;
+}
+
+li span {
+	color: #3F3F3F;
+	font-family: 'Comfortaa', cursive;
+	font-size: 1.11em;
+	letter-spacing: 0.04em;
+}
+
+a.link {
+	color: #000000;
+	text-decoration: none;
+}
+
+a.link:hover {
+	color: inherit;
+}
+
+i.fa {
+	float: right;
+	margin-top: 0.7em;
+	margin-bottom: 0.7em;
+	color: #2E8B57;
+}
+
+th {
+	background: #8FBC8F;
+}
+
+td {
+	background: #FFFFFF;
+}
+
+table p {
+	font-size: inherit;
+}
+
+table th, td {
+	padding: 0.4em;
+}
+
+.other {
+	margin-top: 3em;
+}
+
+.top {
+	color: #000000;
+}
+
+.right {
+	float: right;
+}
